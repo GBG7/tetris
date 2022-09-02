@@ -7,29 +7,6 @@ screen with an option that explains the game tetris. User clicks begin and is
 given with a login screen. User can register an account, and then login again.
 Previous credentials are wiped and replaced with new credentials.
 User is then prompted with the tkinter screen with tetris game.
-
-Mr.Fong I, Taha Sarfraz, genuinely worked my bum off on this project. plz
-do my mark justice.
-
-
-Distribution of work:
-
-Abdu
-    - Graphics of everything except the tetris game
-    - How to play screen
-    - main screen
-    - Graphics of login screen
-    - return buttons
-    - everything except login and the tetris game
-
-Nida
-    - Helped a bit on the google docs
-
-Taha
-    - Coded login screen (files, logic, syntax)
-    - Coded game
-    - Completed the google docs (90% was done by me)
-    - Commenting of entire code at late night :D
 '''
 
 import tkinter
